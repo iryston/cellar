@@ -1,0 +1,22 @@
+{
+  "name": "cellar",
+  "version": "1.0.0",
+  "description": "Responsive, Sass-based, BEM-syntax CSS grid system",
+  "main": "_cellar.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iryston/cellar.git"
+  },
+  "author": "Igor R. Plity <iryston@iryston.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iryston/cellar/issues"
+  },
+  "homepage": "https://github.com/iryston/cellar",
+  "keywords": [
+    "css",
+    "grid",
+    "oocss",
+    "bem"
+  ]
+}
