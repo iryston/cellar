@@ -1,6 +1,6 @@
 # Cellar CSS grid system
 
-**Responsive, Sass-based, BEM-syntax CSS grid system**
+**Responsive, Sass-based, BEM-syntax CSS grid system.**
 Based on [Avalanche](https://github.com/colourgarden/avalanche).
 
 ## Benefits of Cellar
